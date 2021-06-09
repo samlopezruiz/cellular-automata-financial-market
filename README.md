@@ -23,5 +23,5 @@ and run
 the simulation results are saved 'results' and the time series plot is saved in 'images'
 
 <a href="https://github.com/SamShelby/cellular-automata-financial-market/blob/main/src/stockmarket/sim/images/sim_rNone_2021_05_14_18-23.png">
-    <img src="src/stockmarket/sim/images/sim_rNone_2021_05_14_18-23.png" alt="Simulation" width="800" height="800">
+    <img src="src/stockmarket/sim/images/sim_rNone_2021_05_14_18-23.png" alt="Simulation" width="500" height="1000">
   </a>
