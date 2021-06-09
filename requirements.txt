@@ -1,0 +1,13 @@
+numpy~=1.19.5
+pandas~=1.2.4
+seaborn~=0.11.1
+matplotlib~=3.4.1
+pygame~=2.0.1
+joblib~=1.0.1
+plotly~=4.14.3
+statsmodels~=0.12.2
+scipy~=1.6.3
+hurst~=0.0.5
+pmdarima~=1.8.2
+scikit-learn~=0.24.2
+arch~=4.19
